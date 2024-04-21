@@ -1,2 +1,1 @@
-# chess-game
-Chess Game
+# ♟Chess Game
